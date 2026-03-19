@@ -2,6 +2,8 @@
 
 **[官网](https://antseer.ai)** · [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
+![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-green) ![Tools](https://img.shields.io/badge/tools-100%2B-blue) ![No API Key](https://img.shields.io/badge/API%20Key-Not%20Required-brightgreen) ![CLI](https://img.shields.io/badge/CLI-v1.3.0-orange)
+
 > 单一 MCP 端点，100+ 实时 Web3 数据工具，无需 API Key。
 
 Antseer 通过单一 [Model Context Protocol (MCP)](https://modelcontextprotocol.io) 端点，将 AI Agent 与实时链上数据和市场情报直接连接。任何兼容 MCP 的客户端连接后即可自动发现所有可用工具，无需 SDK，无需配置，无需 API Key。
@@ -69,7 +71,7 @@ claude mcp add antseer --transport http https://ant-on-chain-mcp.antseer.ai/mcp
 
 100+ 工具，覆盖四大数据域，由多家专业 Web3 数据提供商驱动。
 
-### 链上（OnChain）
+### 🔗 链上（OnChain）
 - 协议 TVL、收益率、手续费与收入追踪
 - 聪明钱与巨鲸钱包监控
 - 跨链桥资金流向
@@ -78,18 +80,18 @@ claude mcp add antseer --transport http https://ant-on-chain-mcp.antseer.ai/mcp
 - 代币链上指标、持仓分布与盈亏分析
 - 钱包地址画像与交易对手分析
 
-### 中心化金融（CeFi）
+### 📊 中心化金融（CeFi）
 - 现货市场结构、价格与订单簿深度
 - 期货未平仓量、资金费率与清算追踪
 - 市场技术指标
 - 永续 DEX 分析与巨鲸持仓追踪
 
-### 传统金融（TradFi）
+### 🏦 传统金融（TradFi）
 - 比特币与以太坊 ETF 净流入与 AUM
 - 代币化美股（价格、历史、K 线）
 - 代币化贵金属
 
-### 宏观与情绪（Macro & Sentiment）
+### 🌍 宏观与情绪（Macro & Sentiment）
 - 美国宏观经济指标 — GDP、CPI、联邦基金利率、国债收益率、失业率
 - 加密市场情绪评分与社交数据分析
 
@@ -125,7 +127,9 @@ irm https://skillhub-api.antseer.ai/files/clis/install.ps1 | iex
 
 ---
 
-## 相关链接
+## 联系我们
 
-- **官网：** https://antseer.ai
-- **MCP 端点：** https://ant-on-chain-mcp.antseer.ai/mcp
+- 邮箱：[antseersupport@antseer.ai](mailto:antseersupport@antseer.ai)
+- Twitter / X：[@Antseer_ai](https://x.com/Antseer_ai)
+- Telegram：[t.me/antseer](https://t.me/antseer)
+- 官网：[antseer.ai](https://antseer.ai)

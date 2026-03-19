@@ -2,6 +2,8 @@
 
 **[公式サイト](https://antseer.ai)** · [English](README.md) · [中文](README.zh.md) · [한국어](README.ko.md)
 
+![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-green) ![Tools](https://img.shields.io/badge/tools-100%2B-blue) ![No API Key](https://img.shields.io/badge/API%20Key-Not%20Required-brightgreen) ![CLI](https://img.shields.io/badge/CLI-v1.3.0-orange)
+
 > 単一のMCPエンドポイント。100以上のリアルタイムWeb3データツール。APIキー不要。
 
 Antseerは、単一の[Model Context Protocol (MCP)](https://modelcontextprotocol.io)エンドポイントを通じて、AIエージェントをリアルタイムのオンチェーンデータとマーケットインテリジェンスに接続します。MCP対応クライアントは接続時にすべての利用可能なツールを自動検出します。SDK不要、設定不要、APIキー不要。
@@ -69,7 +71,7 @@ MCP設定に追加：
 
 複数のプロフェッショナルなWeb3データプロバイダーによる、4つのドメインにわたる100以上のツール。
 
-### オンチェーン（OnChain）
+### 🔗 オンチェーン（OnChain）
 - プロトコルTVL、利回り、手数料・収益トラッキング
 - スマートマネー・クジラウォレット監視
 - クロスチェーンブリッジ資金フロー
@@ -78,18 +80,18 @@ MCP設定に追加：
 - トークンオンチェーン指標、保有分布・損益分析
 - ウォレットアドレスプロファイリング・取引相手分析
 
-### 中央集権型金融（CeFi）
+### 📊 中央集権型金融（CeFi）
 - 現物市場構造、価格・オーダーブック深度
 - 先物建玉、資金調達率・清算トラッキング
 - 市場テクニカル指標
 - 永続DEX分析・クジラポジション追跡
 
-### 伝統的金融（TradFi）
+### 🏦 伝統的金融（TradFi）
 - ビットコイン・イーサリアムETFの純流入・AUM
 - トークン化米国株（価格、履歴、OHLC）
 - トークン化貴金属
 
-### マクロ・センチメント（Macro & Sentiment）
+### 🌍 マクロ・センチメント（Macro & Sentiment）
 - 米国マクロ経済指標 — GDP、CPI、FF金利、国債利回り、失業率
 - 暗号資産市場センチメントスコア・ソーシャルデータ分析
 
@@ -125,7 +127,9 @@ irm https://skillhub-api.antseer.ai/files/clis/install.ps1 | iex
 
 ---
 
-## リンク
+## お問い合わせ
 
-- **公式サイト：** https://antseer.ai
-- **MCPエンドポイント：** https://ant-on-chain-mcp.antseer.ai/mcp
+- メール：[antseersupport@antseer.ai](mailto:antseersupport@antseer.ai)
+- Twitter / X：[@Antseer_ai](https://x.com/Antseer_ai)
+- Telegram：[t.me/antseer](https://t.me/antseer)
+- 公式サイト：[antseer.ai](https://antseer.ai)

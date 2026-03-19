@@ -2,6 +2,8 @@
 
 **[Website](https://antseer.ai)** · [中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
+![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-green) ![Tools](https://img.shields.io/badge/tools-100%2B-blue) ![No API Key](https://img.shields.io/badge/API%20Key-Not%20Required-brightgreen) ![CLI](https://img.shields.io/badge/CLI-v1.3.0-orange)
+
 > One MCP endpoint. 100+ real-time Web3 data tools. Zero API keys required.
 
 Antseer connects AI agents to live on-chain and market intelligence through a single [Model Context Protocol (MCP)](https://modelcontextprotocol.io) endpoint. Any MCP-compatible client auto-discovers all available tools on connection — no SDK, no configuration, no API keys.
@@ -69,7 +71,7 @@ Add to your MCP settings:
 
 100+ tools across four domains, powered by multiple professional Web3 data providers.
 
-### OnChain
+### 🔗 OnChain
 - Protocol TVL, yields, fees & revenue tracking
 - Smart money & whale wallet monitoring
 - Cross-chain bridge fund flows
@@ -78,18 +80,18 @@ Add to your MCP settings:
 - Token on-chain metrics, holder distribution & PnL
 - Wallet address profiling & counterparty analysis
 
-### CeFi
+### 📊 CeFi
 - Spot market structure, pricing & order book depth
 - Futures open interest, funding rates & liquidation tracking
 - Market technical indicators
 - Perpetual DEX analytics & whale position tracking
 
-### TradFi
+### 🏦 TradFi
 - Bitcoin & Ethereum ETF net inflows & AUM
 - Tokenized US equities (price, history, OHLC)
 - Tokenized precious metals
 
-### Macro & Sentiment
+### 🌍 Macro & Sentiment
 - US macroeconomic indicators — GDP, CPI, Fed funds rate, Treasury yields, unemployment
 - Crypto market sentiment scoring & social analytics
 
@@ -125,7 +127,9 @@ irm https://skillhub-api.antseer.ai/files/clis/install.ps1 | iex
 
 ---
 
-## Links
+## Contact
 
-- **Website:** https://antseer.ai
-- **MCP Endpoint:** https://ant-on-chain-mcp.antseer.ai/mcp
+- Email: [antseersupport@antseer.ai](mailto:antseersupport@antseer.ai)
+- Twitter / X: [@Antseer_ai](https://x.com/Antseer_ai)
+- Telegram: [t.me/antseer](https://t.me/antseer)
+- Website: [antseer.ai](https://antseer.ai)

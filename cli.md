@@ -1,8 +1,8 @@
 # Antseer CLI
 
-[中文](#中文) · [日本語](#日本語) · [한국어](#한국어)
+> A standalone command-line tool for querying Web3 data directly from your terminal.
 
-A standalone command-line tool for querying Web3 data directly from your terminal, powered by the Antseer data platform.
+![version](https://img.shields.io/badge/version-1.3.0-blue) ![platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
 
 ---
 
@@ -102,97 +102,9 @@ Type `help` for available commands, `quit` to exit.
 
 ---
 
-## Links
+## Contact
 
-- **Website:** https://antseer.ai
-- **MCP Endpoint:** https://ant-on-chain-mcp.antseer.ai/mcp
-
----
-
-## 中文
-
-**安装**
-
-```bash
-# macOS / Linux
-curl -sSfL https://skillhub-api.antseer.ai/files/clis/install.sh | bash
-
-# Windows（PowerShell）
-irm https://skillhub-api.antseer.ai/files/clis/install.ps1 | iex
-```
-
-**配置**
-
-```bash
-antseer auth --server-url https://ant-on-chain-mcp.antseer.ai
-```
-
-**常用命令**
-
-```bash
-antseer tools                                          # 列出所有工具
-antseer protocol tvl --params '{"limit": 10}'         # DeFi 协议 TVL
-antseer futures funding-rate --params '{"symbol": "BTC"}'  # BTC 资金费率
-antseer etf btc-etf-list                               # 比特币 ETF 资金流
-antseer macro real-gdp --params '{"interval": "annual"}'   # 美国 GDP
-```
-
----
-
-## 日本語
-
-**インストール**
-
-```bash
-# macOS / Linux
-curl -sSfL https://skillhub-api.antseer.ai/files/clis/install.sh | bash
-
-# Windows（PowerShell）
-irm https://skillhub-api.antseer.ai/files/clis/install.ps1 | iex
-```
-
-**設定**
-
-```bash
-antseer auth --server-url https://ant-on-chain-mcp.antseer.ai
-```
-
-**主なコマンド**
-
-```bash
-antseer tools                                          # 利用可能なツール一覧
-antseer protocol tvl --params '{"limit": 10}'         # DeFiプロトコルTVL
-antseer futures funding-rate --params '{"symbol": "BTC"}'  # BTC資金調達率
-antseer etf btc-etf-list                               # ビットコインETF資金フロー
-antseer macro real-gdp --params '{"interval": "annual"}'   # 米国GDP
-```
-
----
-
-## 한국어
-
-**설치**
-
-```bash
-# macOS / Linux
-curl -sSfL https://skillhub-api.antseer.ai/files/clis/install.sh | bash
-
-# Windows (PowerShell)
-irm https://skillhub-api.antseer.ai/files/clis/install.ps1 | iex
-```
-
-**설정**
-
-```bash
-antseer auth --server-url https://ant-on-chain-mcp.antseer.ai
-```
-
-**주요 명령어**
-
-```bash
-antseer tools                                          # 사용 가능한 툴 목록
-antseer protocol tvl --params '{"limit": 10}'         # DeFi 프로토콜 TVL
-antseer futures funding-rate --params '{"symbol": "BTC"}'  # BTC 펀딩 비율
-antseer etf btc-etf-list                               # 비트코인 ETF 자금 흐름
-antseer macro real-gdp --params '{"interval": "annual"}'   # 미국 GDP
-```
+- Email: [antseersupport@antseer.ai](mailto:antseersupport@antseer.ai)
+- Twitter / X: [@Antseer_ai](https://x.com/Antseer_ai)
+- Telegram: [t.me/antseer](https://t.me/antseer)
+- Website: [antseer.ai](https://antseer.ai)
